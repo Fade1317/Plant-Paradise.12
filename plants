@@ -1,0 +1,13 @@
+/src
+  /components
+    Header.jsx
+    PlantCard.jsx
+  /pages
+    LandingPage.jsx
+    ProductListingPage.jsx
+    CartPage.jsx
+  /redux
+    store.js
+    cartSlice.js
+  App.jsx
+  index.js
